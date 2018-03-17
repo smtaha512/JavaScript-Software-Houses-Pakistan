@@ -1,5 +1,5 @@
-# JavaScript-Software-Houses
-A list of software houses working on JavaScript Stack
+# JavaScript-Software-Houses-Pakistan
+A list of teams and organizations working with JavaScript as one the major language to build softwares.
 
 ---
 Karachi
